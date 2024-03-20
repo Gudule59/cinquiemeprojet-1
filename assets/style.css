@@ -52,7 +52,7 @@ body {
 
 .picture.left::before {
 	content: ' ';
-	background-color: #625719;
+	background-color: #E5975F;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -157,7 +157,7 @@ body {
 
 #services {
 	margin: auto;
-	background-color: #6ea7abc8 ;
+	background-color: #A8D5D8 ;
 	position: relative;
 }
 #services .container::before{
@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #625719;
+	background-color: #BEB45A;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #625719;
+	background-color: #BEB45A;
 	padding: .5em 1em
 }
 
