@@ -157,7 +157,7 @@ body {
 
 #services {
 	margin: auto;
-	background-color: #A8D5D8 ;
+	background-color: #6ea7abc8 ;
 	position: relative;
 }
 #services .container::before{
@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #988d26;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #988d26;
 	padding: .5em 1em
 }
 
