@@ -244,10 +244,8 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
-.mobile-image{
-    display: none; }
 
-@media all and (max-width: 1180px) {
+@media  and (max-width: 1180px) {
 	.picture {
 		flex : 2;
 	}
@@ -263,7 +261,7 @@ input[type="submit"] {
 	}
 }
 
-@media all and (max-width: 1000px) {
+@media  and (max-width: 1000px) {
 	#about{
 		flex-direction: column;
 
@@ -323,12 +321,6 @@ input[type="submit"] {
 }
 
 @media (max-width: 650px) {
-
-	.mobile-image {
-        display: block; }
-
-	.deskop-image{
-        display: none; }
 
 	.top-header {
 		flex-direction: column;
