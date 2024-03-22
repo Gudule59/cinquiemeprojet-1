@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    console.log("test activation du script")
     $('.gallery').mauGallery({
         columns: {
             xs: 1,
